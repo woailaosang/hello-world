@@ -1,3 +1,2 @@
 # hello-world
-hello-word
-love
+hello-word!
